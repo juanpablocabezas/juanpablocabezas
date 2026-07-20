@@ -21,6 +21,8 @@ Acompaño a **organizaciones que quieren que sus datos generen valor**, como ase
 
 Trabajo de punta a punta con **Python**, **SQL** y **Power BI**, e implemento **agentes de IA** sobre los ecosistemas **Microsoft 365 (Copilot Studio)** y **Google**, integrando **APIs privadas** y **APIs de IA** para llevar la tecnología desde el dato crudo hasta el impacto medible.
 
+Fuera del código, soy un apasionado del fútbol ⚽.
+
 ## 🛠️ Tecnologías
 
 <div align="center">
@@ -29,33 +31,44 @@ Trabajo de punta a punta con **Python**, **SQL** y **Power BI**, e implemento **
 **Lenguajes y frameworks**
 
 <img src="https://img.shields.io/badge/Python-22d3ee?style=for-the-badge&logo=python&logoColor=0d1117" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-c084fc?style=for-the-badge&logoColor=0d1117" alt="SQL"/>
-<img src="https://img.shields.io/badge/FastAPI-22d3ee?style=for-the-badge&logo=fastapi&logoColor=0d1117" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flutter-c084fc?style=for-the-badge&logo=flutter&logoColor=0d1117" alt="Flutter"/>
+<img src="https://img.shields.io/badge/R-c084fc?style=for-the-badge&logo=r&logoColor=0d1117" alt="R"/>
+<img src="https://img.shields.io/badge/SQL-22d3ee?style=for-the-badge&logoColor=0d1117" alt="SQL"/>
+<img src="https://img.shields.io/badge/FastAPI-c084fc?style=for-the-badge&logo=fastapi&logoColor=0d1117" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flutter-22d3ee?style=for-the-badge&logo=flutter&logoColor=0d1117" alt="Flutter"/>
 
 **Datos y ML**
 
-<img src="https://img.shields.io/badge/NumPy-22d3ee?style=for-the-badge&logo=numpy&logoColor=0d1117" alt="NumPy"/>
+<img src="https://img.shields.io/badge/NumPy-c084fc?style=for-the-badge&logo=numpy&logoColor=0d1117" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pandas-22d3ee?style=for-the-badge&logo=pandas&logoColor=0d1117" alt="pandas"/>
+<img src="https://img.shields.io/badge/Polars-c084fc?style=for-the-badge&logo=polars&logoColor=0d1117" alt="Polars"/>
+<img src="https://img.shields.io/badge/scikit--learn-22d3ee?style=for-the-badge&logo=scikitlearn&logoColor=0d1117" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/PyTorch-c084fc?style=for-the-badge&logo=pytorch&logoColor=0d1117" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Polars-22d3ee?style=for-the-badge&logo=polars&logoColor=0d1117" alt="Polars"/>
-<img src="https://img.shields.io/badge/Power%20BI-c084fc?style=for-the-badge&logoColor=0d1117" alt="Power BI"/>
+<img src="https://img.shields.io/badge/TensorFlow-22d3ee?style=for-the-badge&logo=tensorflow&logoColor=0d1117" alt="TensorFlow"/>
 
 **IA y Automatización**
 
 <img src="https://img.shields.io/badge/Claude%20API-c084fc?style=for-the-badge&logo=claude&logoColor=0d1117" alt="Claude API"/>
-<img src="https://img.shields.io/badge/Copilot%20Studio-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Copilot Studio"/>
-<img src="https://img.shields.io/badge/Agentes%20de%20IA-c084fc?style=for-the-badge&logoColor=0d1117" alt="Agentes de IA"/>
+<img src="https://img.shields.io/badge/LangGraph-22d3ee?style=for-the-badge&logo=langgraph&logoColor=0d1117" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Copilot%20Studio-c084fc?style=for-the-badge&logoColor=0d1117" alt="Copilot Studio"/>
+<img src="https://img.shields.io/badge/Agentes%20de%20IA-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Agentes de IA"/>
+
+**BI y bases de datos**
+
+<img src="https://img.shields.io/badge/Power%20BI-c084fc?style=for-the-badge&logoColor=0d1117" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Microsoft Fabric"/>
+<img src="https://img.shields.io/badge/SQL%20Server-c084fc?style=for-the-badge&logoColor=0d1117" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Streamlit-22d3ee?style=for-the-badge&logo=streamlit&logoColor=0d1117" alt="Streamlit"/>
 
 **Ecosistemas corporativos**
 
-<img src="https://img.shields.io/badge/Microsoft%20365-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Microsoft 365"/>
-<img src="https://img.shields.io/badge/Google%20Workspace-c084fc?style=for-the-badge&logo=google&logoColor=0d1117" alt="Google Workspace"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-22d3ee?style=for-the-badge&logo=googlecloud&logoColor=0d1117" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Microsoft%20365-c084fc?style=for-the-badge&logoColor=0d1117" alt="Microsoft 365"/>
+<img src="https://img.shields.io/badge/Google%20Workspace-22d3ee?style=for-the-badge&logo=google&logoColor=0d1117" alt="Google Workspace"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-c084fc?style=for-the-badge&logo=googlecloud&logoColor=0d1117" alt="Google Cloud"/>
 
 **Cloud e infraestructura**
 
-<img src="https://img.shields.io/badge/AWS-c084fc?style=for-the-badge&logo=amazonwebservices&logoColor=0d1117" alt="AWS"/>
-<img src="https://img.shields.io/badge/Cloudflare-22d3ee?style=for-the-badge&logo=cloudflare&logoColor=0d1117" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/AWS-22d3ee?style=for-the-badge&logo=amazonwebservices&logoColor=0d1117" alt="AWS"/>
+<img src="https://img.shields.io/badge/Cloudflare-c084fc?style=for-the-badge&logo=cloudflare&logoColor=0d1117" alt="Cloudflare"/>
 
 
 </div>
