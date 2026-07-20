@@ -26,6 +26,7 @@ Me encuentras construyendo soluciones con Python, SQL, Power BI, APIs privadas y
 
 <img src="https://img.shields.io/badge/Python-22d3ee?style=for-the-badge&logo=python&logoColor=0d1117" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-c084fc?style=for-the-badge&logoColor=0d1117" alt="SQL"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 
 **Datos y BI**
 
