@@ -13,10 +13,13 @@
 
 ## 🧠 Sobre mí
 
-Soy **Juan Pablo Cabezas**, Científico de Datos y CIO.
-Me especializo en la **implementación de automatizaciones e IA en organizaciones**, conectando los datos con las decisiones de negocio.
-Trabajo con Machine Learning y Business Intelligence para que la tecnología resuelva problemas reales de la operación.
-Me encuentras construyendo soluciones con Python, SQL, Power BI, APIs privadas y las APIs de IA.
+Soy **Juan Pablo Cabezas**, **Científico de Datos** y **CIO**.
+
+Diseño e implemento **automatizaciones e IA** que convierten los datos de una organización en decisiones de negocio. Mi trabajo une el **Machine Learning** y el **Business Intelligence** con la operación diaria: modelos que predicen, procesos que se automatizan y tableros que muestran lo que de verdad importa.
+
+Acompaño a **organizaciones que quieren que sus datos generen valor**, como asesor y como quien construye la solución: desde entender el problema del negocio hasta dejar funcionando el modelo, la automatización o el tablero que lo resuelve.
+
+Trabajo de punta a punta con **Python**, **SQL** y **Power BI**, integrando **APIs privadas** y **APIs de IA** para llevar la tecnología desde el dato crudo hasta el impacto medible.
 
 ## 🛠️ Tecnologías
 
