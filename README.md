@@ -1,9 +1,9 @@
 <div align="center">
 
 <img src="assets/hero-banner.svg" alt="Juan Pablo Cabezas — Científico de Datos | CIO" width="800"/>
-
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Bienvenido+a+mi+perfil;Cient%C3%ADfico+de+Datos+%7C+CIO;Automatizaciones+e+IA+en+organizaciones" alt="Texto animado de bienvenida"/>
-
+<br><br>
 <img src="https://img.shields.io/badge/Cient%C3%ADfico%20de%20Datos-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Científico de Datos"/>
 <img src="https://img.shields.io/badge/CIO-c084fc?style=for-the-badge&logoColor=0d1117" alt="CIO"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Machine Learning"/>
@@ -49,8 +49,8 @@ Me encuentras construyendo soluciones con Python, SQL, Power BI y las APIs de Cl
 
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=juanpablocabezas&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=e6edf3&hide_border=true" alt="Estadísticas de GitHub"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablocabezas&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e6edf3&hide_border=true" alt="Lenguajes más usados"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=juanpablocabezas&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=e6edf3&hide_border=true" alt="Estadísticas de GitHub"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=juanpablocabezas&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e6edf3&hide_border=true" alt="Lenguajes más usados"/></td>
   </tr>
 </table>
 
