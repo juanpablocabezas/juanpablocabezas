@@ -72,8 +72,8 @@ Trabajo de punta a punta con **Python**, **SQL** y **Power BI**, e implemento **
 
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=juanpablocabezas&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=e6edf3&hide_border=true" alt="Estadísticas de GitHub"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablocabezas&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e6edf3&hide_border=true" alt="Lenguajes más usados"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=juanpablocabezas&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=e6edf3&hide_border=true" alt="Estadísticas de GitHub"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=juanpablocabezas&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e6edf3&hide_border=true" alt="Lenguajes más usados"/></td>
   </tr>
 </table>
 
