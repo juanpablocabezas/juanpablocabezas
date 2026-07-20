@@ -53,7 +53,7 @@ Me encuentras construyendo soluciones con Python, SQL, Power BI, APIs privadas y
 
 > [!IMPORTANT]
 > **[TallerPractico](https://github.com/juanpablocabezas/TallerPractico)**
-> <<COMPLETAR: descripción de una línea de TallerPractico>>
+> Taller práctico de Ciencia de Datos y Machine Learning: ejercicios y notebooks para aprender el flujo completo, desde el análisis de datos hasta el entrenamiento de modelos.
 
 ## 📊 Estadísticas de GitHub
 
@@ -61,12 +61,12 @@ Me encuentras construyendo soluciones con Python, SQL, Power BI, APIs privadas y
 
 <table border="0">
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=juanpablocabezas&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=e6edf3&hide_border=true" alt="Estadísticas de GitHub"/></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=juanpablocabezas&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e6edf3&hide_border=true" alt="Lenguajes más usados"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=juanpablocabezas&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=e6edf3&hide_border=true" alt="Estadísticas de GitHub"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablocabezas&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e6edf3&hide_border=true" alt="Lenguajes más usados"/></td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanpablocabezas&theme=tokyonight&background=0d1117&ring=22d3ee&fire=c084fc&currStreakLabel=22d3ee&hide_border=true" alt="Racha de contribuciones"/>
+<img src="https://streak-stats.demolab.com?user=juanpablocabezas&theme=tokyonight&background=0d1117&ring=22d3ee&fire=c084fc&currStreakLabel=22d3ee&hide_border=true" alt="Racha de contribuciones"/>
 
 ## 🏆 Trofeos
 
@@ -76,6 +76,7 @@ Me encuentras construyendo soluciones con Python, SQL, Power BI, APIs privadas y
 
 <a href="https://www.juancabezas.com"><img src="https://img.shields.io/badge/Portafolio-juancabezas.com-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Portafolio"/></a>
 <a href="mailto:juancabezas@hotmail.com"><img src="https://img.shields.io/badge/Correo-juancabezas%40hotmail.com-c084fc?style=for-the-badge&labelColor=0d1117" alt="Correo"/></a>
-<a href="<<COMPLETAR: URL de LinkedIn>>"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Cabezas-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/></a>
+<!-- TODO (pendiente): reemplazar el href "#" por la URL real de LinkedIn -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Cabezas-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/></a>
 
 </div>
