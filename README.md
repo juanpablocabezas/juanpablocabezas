@@ -68,9 +68,9 @@ Me encuentras construyendo soluciones con Python, SQL, Power BI, APIs privadas y
 
 <img src="https://streak-stats.demolab.com?user=juanpablocabezas&theme=tokyonight&background=0d1117&ring=22d3ee&fire=c084fc&currStreakLabel=22d3ee&hide_border=true" alt="Racha de contribuciones"/>
 
-## 🏆 Trofeos
+## 📈 Actividad
 
-<img src="https://github-profile-trophy.vercel.app/?username=juanpablocabezas&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trofeos de GitHub"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanpablocabezas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=c084fc&point=e6edf3&area=true" alt="Gráfico de actividad de contribuciones"/>
 
 ## 📫 Contacto
 
