@@ -22,19 +22,31 @@ Me encuentras construyendo soluciones con Python, SQL, Power BI, APIs privadas y
 
 <div align="center">
 
-**Lenguajes**
+
+**Lenguajes y frameworks**
 
 <img src="https://img.shields.io/badge/Python-22d3ee?style=for-the-badge&logo=python&logoColor=0d1117" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-c084fc?style=for-the-badge&logoColor=0d1117" alt="SQL"/>
 <img src="https://img.shields.io/badge/FastAPI-22d3ee?style=for-the-badge&logo=fastapi&logoColor=0d1117" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flutter-c084fc?style=for-the-badge&logo=flutter&logoColor=0d1117" alt="Flutter"/>
 
-**Datos y BI**
+**Datos y ML**
 
+<img src="https://img.shields.io/badge/NumPy-22d3ee?style=for-the-badge&logo=numpy&logoColor=0d1117" alt="NumPy"/>
+<img src="https://img.shields.io/badge/PyTorch-c084fc?style=for-the-badge&logo=pytorch&logoColor=0d1117" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Polars-22d3ee?style=for-the-badge&logo=polars&logoColor=0d1117" alt="Polars"/>
+<img src="https://img.shields.io/badge/Power%20BI-c084fc?style=for-the-badge&logoColor=0d1117" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Power%20BI-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Power BI"/>
 
 **IA y Automatización**
 
 <img src="https://img.shields.io/badge/Claude%20API-c084fc?style=for-the-badge&logo=claude&logoColor=0d1117" alt="Claude API"/>
+
+**Cloud e infraestructura**
+
+<img src="https://img.shields.io/badge/AWS-22d3ee?style=for-the-badge&logo=amazonwebservices&logoColor=0d1117" alt="AWS"/>
+<img src="https://img.shields.io/badge/Cloudflare-c084fc?style=for-the-badge&logo=cloudflare&logoColor=0d1117" alt="Cloudflare"/>
+
 
 </div>
 
