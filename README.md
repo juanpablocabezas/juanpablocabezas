@@ -19,7 +19,7 @@ Diseño e implemento **automatizaciones e IA** que convierten los datos de una o
 
 Acompaño a **organizaciones que quieren que sus datos generen valor**, como asesor y como quien construye la solución: desde entender el problema del negocio hasta dejar funcionando el modelo, la automatización o el tablero que lo resuelve.
 
-Trabajo de punta a punta con **Python**, **SQL** y **Power BI**, integrando **APIs privadas** y **APIs de IA** para llevar la tecnología desde el dato crudo hasta el impacto medible.
+Trabajo de punta a punta con **Python**, **SQL** y **Power BI**, e implemento **agentes de IA** sobre los ecosistemas **Microsoft 365 (Copilot Studio)** y **Google**, integrando **APIs privadas** y **APIs de IA** para llevar la tecnología desde el dato crudo hasta el impacto medible.
 
 ## 🛠️ Tecnologías
 
@@ -43,11 +43,19 @@ Trabajo de punta a punta con **Python**, **SQL** y **Power BI**, integrando **AP
 **IA y Automatización**
 
 <img src="https://img.shields.io/badge/Claude%20API-c084fc?style=for-the-badge&logo=claude&logoColor=0d1117" alt="Claude API"/>
+<img src="https://img.shields.io/badge/Copilot%20Studio-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Copilot Studio"/>
+<img src="https://img.shields.io/badge/Agentes%20de%20IA-c084fc?style=for-the-badge&logoColor=0d1117" alt="Agentes de IA"/>
+
+**Ecosistemas corporativos**
+
+<img src="https://img.shields.io/badge/Microsoft%20365-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Microsoft 365"/>
+<img src="https://img.shields.io/badge/Google%20Workspace-c084fc?style=for-the-badge&logo=google&logoColor=0d1117" alt="Google Workspace"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-22d3ee?style=for-the-badge&logo=googlecloud&logoColor=0d1117" alt="Google Cloud"/>
 
 **Cloud e infraestructura**
 
-<img src="https://img.shields.io/badge/AWS-22d3ee?style=for-the-badge&logo=amazonwebservices&logoColor=0d1117" alt="AWS"/>
-<img src="https://img.shields.io/badge/Cloudflare-c084fc?style=for-the-badge&logo=cloudflare&logoColor=0d1117" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/AWS-c084fc?style=for-the-badge&logo=amazonwebservices&logoColor=0d1117" alt="AWS"/>
+<img src="https://img.shields.io/badge/Cloudflare-22d3ee?style=for-the-badge&logo=cloudflare&logoColor=0d1117" alt="Cloudflare"/>
 
 
 </div>
